@@ -1,0 +1,7 @@
+# Configuration that is shared between all of the pages in this assignment.
+#
+# If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
+# below the tabes
+outcome:   
+slides:
+template:
