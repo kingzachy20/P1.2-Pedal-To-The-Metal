@@ -9,7 +9,7 @@ By the end of this lesson, you will be able to:
 * Use the Visual Studio IDE and a few of its basic features
 * Write comments to make your code more readable
 * Utilize basic Unity C# methods and classes like ```transform.Translate``` and ```Vector3```
-* Add Rigidbody and Collider components to allow objects to collide realistically 
+* Add **Rigidbody** and **Collider** components and adjust their parameters to create realistic collisions
 * Duplicate objects in the hierarchy to populate your scene
 * Commit changes and push them to GitHub
 
