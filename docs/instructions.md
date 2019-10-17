@@ -8,7 +8,7 @@ Before starting this assignment:
 1. Launch **GitHub Desktop**, then:
    - Confirm that you are on your **step-1** branch (go there if you are not).
    - Create a **step-2** branch.
-1. Get headphones if you need them, then watch the [lesson][] videos **taking notes as you go**. Be sure to get:
+1. Get headphones if you need them (if you have you own ear buds you may use them), then watch the [lesson][] videos **taking notes as you go**. Be sure to get:
    - Vocabulary
    - Creating C# scripts
    - Attaching scripts to game objects
