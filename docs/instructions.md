@@ -14,6 +14,7 @@ Before starting this assignment:
    - Attaching scripts to game objects
    - Adding components to game objects
 1. After watching each video section, do the steps in Unity. If necessary refer to your notes (update them if you find yourself stuck). You can use the abreviated steps below each video to help you remember what to do.
+1. When you've completed the section, go to the submission tab, complete the template, and submit.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
