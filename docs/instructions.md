@@ -2,6 +2,8 @@
 layout: tabbed-assignment
 ---
 
+{% include time-estimate.html %}
+
 # Instructions
 
 Before starting this assignment:
