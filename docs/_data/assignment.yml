@@ -1,5 +1,8 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
+# Git stuff
+git-curr-branch: step-2
+get-prev-branch: step-1
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
 lesson: https://learn.unity.com/tutorial/1-2-move-the-vehicle-with-your-first-line-of-c?courseId=5cf96c41edbc2a2ca6e8810f&projectId=5caccdfbedbc2a3cef0efe63
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
@@ -7,24 +10,9 @@ lesson: https://learn.unity.com/tutorial/1-2-move-the-vehicle-with-your-first-li
 outcome: You will have a moving vehicle with its own C# script and a road full of objects, all of which may collide with each other using physics components.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
-# Link to Google Doc template for assignment submission.
-template: https://docs.google.com/document/d/1mQHfwK9oPdMMy8dwPsQga_hU1vqeDlbpEwjJLm5iLlc/edit?usp=sharing
-
-# Configuration that is shared between all of the pages in this assignment.
-#
-# Git stuff
-git-curr-branch: step-4
-get-prev-branch: step-3
-# Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson: https://learn.unity.com/tutorial/lesson-1-4-use-user-input-to-control-the-vehicle?courseId=5cf96c41edbc2a2ca6e8810f&projectId=5caccdfbedbc2a3cef0efe63
-# If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
-# below the tabes
-outcome: The player has control of the vehicle, using the arrow keys to maneuver.
-# Link to lesson slides, displayed on Resources tab if not empty.
-slides:
 # Name and URL of repository holding the starter code for this assignment.
 starter-code-org: SKHS-GDP-2019-2020
 starter-code-repo: Prototype-1
 starter-code-url: https://github.com/SKHS-GDP-2019-2020/Prototype-1
 # Link to Google Doc template for assignment submission.
-template: 
+template: https://docs.google.com/document/d/1mQHfwK9oPdMMy8dwPsQga_hU1vqeDlbpEwjJLm5iLlc/edit?usp=sharing
