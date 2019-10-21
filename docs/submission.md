@@ -4,9 +4,12 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-## If you are still working on the lesson:
+At the end of class:
 
 1. Commit and push your changes.
+
+## If you are still working on the lesson:
+
 1. Submit a link to the **step-3** branch of your **Prototype-1** repository.
 1. Leave a brief comment explaining:
    - The step you were working on at the end of the block.
