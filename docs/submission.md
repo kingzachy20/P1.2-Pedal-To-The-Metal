@@ -10,7 +10,7 @@ At the end of class:
 
 ## If you are still working on the lesson:
 
-1. Submit a link to the **step-3** branch of your **Prototype-1** repository.
+1. Submit a link to the **step-2** branch of your **Prototype-1** repository.
 1. Leave a brief comment explaining:
    - The step you were working on at the end of the block.
    - Where you got stuck or bogged down.
